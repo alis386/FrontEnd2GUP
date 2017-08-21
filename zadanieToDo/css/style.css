@@ -1,0 +1,12 @@
+.glowna {
+    width: 600px;
+    border-style: inset;
+    margin: 10px;
+    padding: 5px;
+    background-color: bisque;
+}
+
+.form-group {
+    margin-top: 10px;
+}
+    

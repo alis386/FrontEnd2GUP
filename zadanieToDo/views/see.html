@@ -1,0 +1,8 @@
+
+<div ng-repeat="okienko in dodaj">
+    <h3>{{ okienko.task }}</h3> 
+    <p>{{okienko.opis}}</p>
+    <a href="#!/delete/{{ okienko.id }}">usuń</a>
+    <button type="button" ng-click="delete(okienko.id)" class="btn btn-success">zdrobione</button>  
+    <hr>
+</div>

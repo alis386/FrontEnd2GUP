@@ -1,0 +1,14 @@
+body{
+    border-style: solid;
+    width:600px;
+    height: 400px;
+        
+}
+
+
+h1{
+    text-align: center;
+}
+#b {
+    display: none;
+}
